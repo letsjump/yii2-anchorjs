@@ -1,7 +1,7 @@
 <?php
 /**
  *
- *  * @package   yii2-easy-ajax
+ *  * @package   yii2-anchorjs
  *  * @author    Gianpaolo Scrigna <letsjump@gmail.com>
  *  * @link https://github.com/letsjump/yii2-easy-ajax
  *  * @copyright Copyright &copy; Gianpaolo Scrigna, beintech.it, 2017-2020
