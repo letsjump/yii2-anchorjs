@@ -1,0 +1,19 @@
+{
+    "name": "letsjump/yii2-anchorjs",
+    "description": "Add deep anchor links to your Yii docs",
+    "type": "library",
+    "keywords": ["yii2","javascript","link","anchor","blog","documentation"],
+    "license": "MIT",
+    "version": "v1.0.0",
+    "authors": [
+        {
+            "name": "letsjump",
+            "email": "letsjump@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "yiisoft/yii2": "~2.0.0",
+        "bower-asset/anchor-js": "4.2.2"
+    }
+}
