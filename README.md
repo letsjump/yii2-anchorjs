@@ -12,9 +12,9 @@ It uses an attractive link icon by default, but you can customize the display vi
 
 Finally, AnchorJS is lightweight, accessible, and dependency-free.
 
-The perfect example? The bootstrap manual pages: 
+Example: The bootstrap manual pages: 
 
-
+![bootstrap](https://user-images.githubusercontent.com/284998/74590818-4544ed80-5012-11ea-9103-97be6a1fe17a.jpg)
 
 Installation
 ------------
