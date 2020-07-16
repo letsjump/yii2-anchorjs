@@ -1,6 +1,6 @@
 AnchorJS
 ========
-Yii2 wrapper for [AnchorJS](https://www.bryanbraun.com/anchorjs) that add deep anchor links to your Yii docs.
+Yii2 wrapper for [AnchorJS](https://www.bryanbraun.com/anchorjs) that adds deep anchor links to your Yii docs.
 
 Overview
 --------
@@ -40,6 +40,7 @@ Usage
 -----
 
 Once the extension is installed, simply add this in any view that need it.
+Please refer to the [plugin documentation page](https://www.bryanbraun.com/anchorjs/) for an extended usage guide
 
 ```php
 <?= \letsjump\AnchorJS\AnchorJS::widget([
@@ -69,3 +70,8 @@ return [
     ],
 ];
 ```
+
+Contribution
+------------
+
+
